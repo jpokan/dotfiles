@@ -3,6 +3,9 @@
 System Info
 - Windows 11
 
+Clone this repo into your `X:\Envs\Github\dotfiles` or any path you find appropiate
+Then copy these dotfiles which are meant to be placed directly into your `USER` directory like so `C:\Users\jpokan`
+
 ### Software
 General overview of the software required
 
