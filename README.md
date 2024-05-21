@@ -32,3 +32,31 @@ Pyenv for windows
 - https://github.com/pyenv-win/pyenv-win
     - mainly used for "masterkey" project
 
+
+Sunbather colorscheme for windows terminal, paste this on your windows terminal JSON file
+```json
+{
+    "background": "#080808",
+    "black": "#929292",
+    "blue": "#97BEDC",
+    "brightBlack": "#BDBDBD",
+    "brightBlue": "#B1D8F6",
+    "brightCyan": "#1AB2A8",
+    "brightGreen": "#BDDEAB",
+    "brightPurple": "#FBDAFF",
+    "brightRed": "#FFA1A1",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#FFDCA0",
+    "cursorColor": "#FFA560",
+    "cyan": "#00988E",
+    "foreground": "#DEDEDE",
+    "green": "#94B979",
+    "name": "Sunbather",
+    "purple": "#E1C0FA",
+    "red": "#E27373",
+    "selectionBackground": "#474E91",
+    "white": "#DEDEDE",
+    "yellow": "#FFBA7B"
+}
+```
+
